@@ -1,0 +1,38 @@
+Importer Log Report
+Project : esp32 nfc pcb.PrjPcb
+
+Section : Analyze Document - C:\Users\LiberDB\Downloads\NFC\esp32 nfc pcb.brd
+    Analyzing data of C:\Users\LiberDB\Downloads\NFC\esp32 nfc pcb.brd
+    Load settings
+    Load layers 161
+    Load board
+    Load Library "diode"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "moekoe"
+    Load Packages 10
+    ERROR: Unhandled typepackages3d
+    Load Library "iml_elc"
+    Load Packages 1
+    Load Library "Capacitor"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "Connector"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "Inductor"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "Resistor"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "Library"
+    Load Packages 1
+    Load Library "2024-08-20_22-07-07_Library"
+    Load Packages 1
+    Load Library "2024-08-21_16-21-19_Library"
+    Load Packages 1
+    ERROR: Unhandled typegroups
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection
